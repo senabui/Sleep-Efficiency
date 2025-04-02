@@ -1,0 +1,3 @@
+# Sleep Efficiency Analysis & Interventions
+
+## This sleep efficiency project leverages machine learning and analysis to identify the key determinants of sleep efficiency– our target metric that represents the percentage of time in bed actually spent sleeping. By analyzing a comprehensive dataset that includes sleep architecture, lifestyle factors, and demographic information, we aim to develop predictive models that can accurately classify sleep efficiency and inform targeted interventions. The findings within this project hope to provide insight to the recent advances in wearable technology and mobile health appications, which have created unprecedented opportunities to monitor, analyze, and improve sleep patterns at both individual and population levels. 
