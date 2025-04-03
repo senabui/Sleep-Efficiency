@@ -6,4 +6,9 @@ The completion of this project was done using R.
 
 Variable importance of sleep factors affecting percentage of time in bed include the following: 
 
-<img src="images/Variable Importance.png", width=700>
+<img src="images/Variable Importance.png" width=800>
+
+Classification was performed using Random Forest Model to classify each person's sleep efficiency into target variables of 'Low', 'Optimal', or 'High'. Given the class imbalance, SMOTE was applied onto our preprocessed dataset to balance out our three classes. Model accuracy is 91.2%, with strong class-specific performance (sensitivity ranging from 88,9% to 95.8% across all three classes). When applied to the original unbalanced dataset, accuracy increased to 97.1% with particularly strong performance on the 'Low' class. 
+
+<img src="images/Confusion Matrix SMOTE.png" width=800>
+
