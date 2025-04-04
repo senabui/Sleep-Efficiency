@@ -12,3 +12,9 @@ Classification was performed using Random Forest Model to classify each person's
 
 <img src="images/Confusion Matrix SMOTE.png" width=800>
 
+Multiple regression was performed to identify the best predictors, measure predictor significance, and evaluate how accurately they can predict sleep efficiency. All three feature selection techniques results in the same significant features: percentage of light sleep, awakenings, alcohol consumption, smoking status, and exercise frequency. 
+
+<img src="images/Multiple Regression .png" width=800>
+
+
+
